@@ -1,4 +1,4 @@
-# odin-recipes
+# https://miissy.github.io/OdinRecipes/
 
 What the current project is:
 Making a recipe site with the basics of html and css. 
